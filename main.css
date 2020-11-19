@@ -9,9 +9,11 @@
     box-sizing: border-box;
 }
 
+/*elementos base*/
 body{
     background: var(--preta);
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 
 header .container {
@@ -36,4 +38,10 @@ header nav a {
 
 header nav a:hover {
     color: #ffffff;
+}
+
+/*Filme pricipal*/
+.filme-principal {
+    font-size: 16px;
+    background: url('');
 }
